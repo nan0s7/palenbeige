@@ -1,5 +1,5 @@
 **Background colour:**
-#3b3838
+#373434
 
 **Foreground colour:**
 #EBE4C7
