@@ -2,11 +2,11 @@
 
 # ====================CONFIG THIS =============================== #
 COLOR_01="#212121"           # HOST
-COLOR_02="#a65449"           # SYNTAX_STRING
+COLOR_02="#ad5f55"           # SYNTAX_STRING
 COLOR_03="#7fabb4"           # COMMAND
 COLOR_04="#52774b"           # COMMAND_COLOR2
-COLOR_05="#7c6249"           # PATH
-COLOR_06="#d79266"           # SYNTAX_VAR
+COLOR_05="#6e5b49"           # PATH
+COLOR_06="#cf8b60"           # SYNTAX_VAR
 COLOR_07="#556e80"           # PROMP
 COLOR_08="#f3ede2"           #
 
@@ -14,7 +14,7 @@ COLOR_09="#b08ca1"           #
 COLOR_10="#685775"           # COMMAND_ERROR
 COLOR_11="#719378"           # EXEC
 COLOR_12="#915656"           #
-COLOR_13="#a35d5d"           # FOLDER
+COLOR_13="#ac5757"           # FOLDER
 COLOR_14="#9088b3"           #
 COLOR_15="#5d5e7c"           #
 COLOR_16="#e0dfda"           #
