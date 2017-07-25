@@ -4,10 +4,10 @@
 COLOR_01="#212121"           # HOST
 COLOR_02="#a65449"           # SYNTAX_STRING
 COLOR_03="#7fabb4"           # COMMAND
-COLOR_04="#4e8345"           # COMMAND_COLOR2
+COLOR_04="#52774b"           # COMMAND_COLOR2
 COLOR_05="#7c6249"           # PATH
-COLOR_06="#d78c5c"           # SYNTAX_VAR
-COLOR_07="#516c7f"           # PROMP
+COLOR_06="#d79266"           # SYNTAX_VAR
+COLOR_07="#556e80"           # PROMP
 COLOR_08="#f3ede2"           #
 
 COLOR_09="#b08ca1"           #
@@ -16,7 +16,7 @@ COLOR_11="#719378"           # EXEC
 COLOR_12="#915656"           #
 COLOR_13="#a35d5d"           # FOLDER
 COLOR_14="#9088b3"           #
-COLOR_15="#606181"           #
+COLOR_15="#5d5e7c"           #
 COLOR_16="#e0dfda"           #
 
 BACKGROUND_COLOR="#393635"   # Background Color
