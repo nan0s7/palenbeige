@@ -6,4 +6,5 @@ For exact Hex colour codes have a look at _palette.md_ for the "accent" colours,
 ## Some examples:
 ![neofetch](neofetch1.png)
 ![htop](htop.png)
+![colours](colours.png)
 ![gnome_terminal_colours](gnomeColours.png)
