@@ -6,6 +6,6 @@ I would appreciate it if you link back to this repository if you happen to use t
 For exact Hex colour codes have a look at _palette.md_ for the accent colours, and the _bgfg.md_ for the background and foreground colours.
 
 ## Some examples:
-![neofetch](neofetch1.png)
-![htop](htop.png)
-![colours](colours.png)
+![neofetch](pictures/neofetch1.png)
+![htop](pictures/htop.png)
+![colours](pictures/colours.png)
