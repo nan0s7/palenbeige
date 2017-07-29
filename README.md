@@ -5,6 +5,8 @@ I would appreciate it if you link back to this repository if you happen to use t
 
 For exact Hex colour codes have a look at _palette.md_ for the accent colours, and the _bgfg.md_ for the background and foreground colours.
 
+The colours in the _testing_ folder are more for my personal experimentation. Right now I'm trying to organise the colours and add in more variety. Feel free to use them or what-have-you but they will be undergoing _major_ modifications.
+
 ## Some examples:
 ![neofetch](pictures/neofetch1.png)
 ![htop](pictures/htop.png)
