@@ -1,26 +1,26 @@
 #!/usr/bin/env bash
 
 # ====================CONFIG THIS =============================== #
-COLOR_01="#212121"           # HOST
-COLOR_02="#ad5f55"           # SYNTAX_STRING
-COLOR_03="#7fabb4"           # COMMAND
-COLOR_04="#52774b"           # COMMAND_COLOR2
-COLOR_05="#6e5b49"           # PATH
-COLOR_06="#cf8b60"           # SYNTAX_VAR
-COLOR_07="#556e80"           # PROMP
-COLOR_08="#f3ede2"           #
+COLOR_01="#0A1F1D"           # HOST
+COLOR_02="#945B5B"           # SYNTAX_STRING
+COLOR_03="#ADB460"           # COMMAND
+COLOR_04="#876647"           # COMMAND_COLOR2
+COLOR_05="#5C5568"           # PATH
+COLOR_06="#627572"           # SYNTAX_VAR
+COLOR_07="#8A9BB0"           # PROMP
+COLOR_08="#E7DECE"           #
 
-COLOR_09="#b08ca1"           #
-COLOR_10="#685775"           # COMMAND_ERROR
-COLOR_11="#719378"           # EXEC
-COLOR_12="#915656"           #
-COLOR_13="#ac5757"           # FOLDER
-COLOR_14="#9088b3"           #
-COLOR_15="#5d5e7c"           #
-COLOR_16="#e0dfda"           #
+COLOR_09="#C4B378"           #
+COLOR_10="#765347"           # COMMAND_ERROR
+COLOR_11="#7E8B61"           # EXEC
+COLOR_12="#AC794B"           #
+COLOR_13="#9886AA"           # FOLDER
+COLOR_14="#8EAEA6"           #
+COLOR_15="#656A74"           #
+COLOR_16="#EEEDE8"           #
 
-BACKGROUND_COLOR="#393635"   # Background Color
-FOREGROUND_COLOR="#ebe4c7"   # Text
+BACKGROUND_COLOR="#302F2E"   # Background Color
+FOREGROUND_COLOR="#EBE4C7"   # Text
 CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 PROFILE_NAME="Pale and Beige"
 # =============================================
